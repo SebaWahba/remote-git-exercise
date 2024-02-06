@@ -4,3 +4,12 @@
 {\*\expandedcolortbl;;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh15060\viewkind0
 }
+#include<iostream>
+using namespace std;
+int main()
+{
+    int x, y;
+    cin>>x>>y;
+    cout<<x+y;
+    return 0;
+}
